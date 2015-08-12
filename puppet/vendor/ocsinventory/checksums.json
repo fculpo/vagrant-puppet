@@ -1,0 +1,17 @@
+{
+  "Gemfile": "f717d25330f51d5ec6b0cdea236bf618",
+  "LICENSE": "1906cc9accb05dcaf61c8cda63402170",
+  "README.md": "b0123d6240731ba73fdea79894d91222",
+  "Rakefile": "2c13ea4e1c0b9a94b5aa26630e7b67a9",
+  "manifests/config.pp": "733ebd5df3a16f83a4699e2f4b5cef6f",
+  "manifests/init.pp": "527b047a4a0e95c07088d394bd9fc6c5",
+  "manifests/install.pp": "75ea92814392b1a627e646ccaeb2a6af",
+  "manifests/params.pp": "0b7ecd1b5410b1663b07472a5bffa9e9",
+  "metadata.json": "8776f7764861313aa7719037834c0583",
+  "spec/classes/coverage_spec.rb": "5b6dfa0dd426aca0ccfae23c0a629f0b",
+  "spec/classes/ocsinventory_spec.rb": "e99da64d2b7dc4bcab2aea91935d3ed2",
+  "spec/spec_helper.rb": "d260022a03df207437bb089724ae1c54",
+  "templates/agent.sysconfig.erb": "408b63621ca31415e4109ef71a7aa1f9",
+  "templates/reports.RedHat.conf.erb": "772767b4851560efe53eab0e6452cd3f",
+  "templates/server.RedHat.conf.erb": "4fc69b99062750f13af6312e2affa5b4"
+}

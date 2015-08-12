@@ -1,0 +1,18 @@
+{
+  "CHANGELOG": "3f09c29747a8c0f94d6752b3c80ba290",
+  "README.md": "f1425ad0b314e1195862029f2c9198a9",
+  "manifests/debconf.pp": "6c15f0d839b59e9b64e4896d8a1954b0",
+  "manifests/init.pp": "b4fde75af5622df296b3795f51b0b9e8",
+  "manifests/params.pp": "cbfdabf548e9c785c16f045c901857d4",
+  "manifests/server.pp": "05729402ef6b80a60b1652dbc68c29d8",
+  "manifests/servernode.pp": "80bfd3d2ad62170789d989e411d72088",
+  "manifests/vhost.pp": "7f52a730cda4f8f91e224a8b3038ca71",
+  "metadata.json": "f4c76439bc4949ae51a9a4aca0d3503a",
+  "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+  "templates/apache/phpmyadmin_fragment.erb": "863d577f350c8758777259639d7993b0",
+  "templates/config_footer.inc.php.erb": "5339df96cb9de55dc08d93a5479b9e20",
+  "templates/config_header.inc.php.erb": "1b98f3af6b87ff710d32ee1b0a458f6c",
+  "templates/phpMyAdmin.conf.erb": "e68765df0499f4a3eced735c1db65511",
+  "templates/servernode.erb": "76720bd9e3584158f743b4681875685b",
+  "tests/init.pp": "dbbc85dc39303725d65db110ca289ddb"
+}

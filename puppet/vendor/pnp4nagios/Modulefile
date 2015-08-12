@@ -1,0 +1,8 @@
+name    'abstractit-pnp4nagios'
+version '0.1.1'
+author 'rendhalver'
+license 'Apache License, Version 2.0'
+summary 'manage pnp4nagios'
+description 'manage pnp4nagiods with puppet'
+project_page 'https://github.com/abstractit/puppet-pnp4nagios'
+dependency 'puppetlabs/stdlib', '>=0.0.1'

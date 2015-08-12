@@ -1,0 +1,32 @@
+{
+  "license": "Apache License, Version 2.0",
+  "source": "https://github.com/unbc/puppet-sssd",
+  "types": [
+
+  ],
+  "description": "Manage SSSD authentication on RHEL-based systems.",
+  "version": "0.2.4",
+  "checksums": {
+    "README.markdown": "fcebb95f7fb55322873eba66ce0ecd1d",
+    "manifests/params.pp": "2086abea529b7e3851ffa6e4ecbf8fda",
+    "LICENSE": "175792518e4ac015ab6696d16c4f607e",
+    "manifests/homedir.pp": "3b0b90ca531bbd44b8ebb0646f77335e",
+    "Modulefile": "3c59dfb3803795edd4435ef084aa8398",
+    "manifests/init.pp": "aeeb1e1bbd25c4a4e0a7a05743d7ff0b",
+    "manifests/domain.pp": "3321a98213dfbb5661165eb1f07e78b2",
+    "templates/domain.conf.erb": "39dd896fb0f3fc4f201d62f4837b4b13",
+    "templates/header_sssd.conf.erb": "a7bbc744f65eb285bca85baa9282987e"
+  },
+  "project_page": "https://github.com/unbc/puppet-sssd",
+  "summary": "Manage SSSD authentication on RHEL-based systems.",
+  "name": "nwaller-sssd",
+  "author": "nwaller",
+  "dependencies": [
+    {
+      "name": "ripienaar/concat"
+    },
+    {
+      "name": "puppetlabs/stdlib"
+    }
+  ]
+}

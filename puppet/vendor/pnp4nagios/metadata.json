@@ -1,0 +1,31 @@
+{
+  "name": "abstractit-pnp4nagios",
+  "version": "0.1.1",
+  "source": "UNKNOWN",
+  "author": "rendhalver",
+  "license": "Apache License, Version 2.0",
+  "summary": "manage pnp4nagios",
+  "description": "manage pnp4nagiods with puppet",
+  "project_page": "https://github.com/abstractit/puppet-pnp4nagios",
+  "dependencies": [
+    {
+      "name": "puppetlabs/stdlib",
+      "version_requirement": ">=0.0.1"
+    }
+  ],
+  "types": [
+
+  ],
+  "checksums": {
+    "LICENSE": "d2794c0df5b907fdace235a619d80314",
+    "Modulefile": "dd9304841cbe8e442fa2350723b9a154",
+    "README.md": "5e2fd83f448051be9b0d2f89a66ea3cd",
+    "manifests/config.pp": "f6407e9b442090a5a330e886b2291004",
+    "manifests/init.pp": "172e7f89e53a4784952159a50cd3f45b",
+    "manifests/install.pp": "1f2d9b6612e28d91fd02a9fd44d97b5c",
+    "manifests/params.pp": "ddee7ceea96b469a3d8439b8558fcb30",
+    "manifests/service.pp": "bb5166199cb9903677a1b2cf7afd1380",
+    "templates/config.php.erb": "1ac75f7ef00ad2702be957a8e3afd199",
+    "templates/npcd.cfg.erb": "c08cbc793263d6abac4d32a9eecdb1e0"
+  }
+}
