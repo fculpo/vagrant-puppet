@@ -15,17 +15,13 @@ mod 'puppetlabs/vcsrepo',     '1.3.1'
 
 # Contrib modules
 #################
-mod 'abstractit/pnp4nagios',  '0.1.1'
 mod 'alup/rbenv',             '1.2.0'
-mod 'arioch/ocsinventory',    '1.1.0'
-mod 'biemond/wildfly',        '0.3.6'
 mod 'darin/zypprepo',         '1.0.2'
 mod 'evenup/logrotate',       '1.3.0'
 mod 'example42/yum',          '2.1.18'
 mod 'fsalum/redis',           '1.0.3'
 mod 'jfryman/nginx',          '0.2.7'
 mod 'jfryman/selinux',        '0.2.3'
-mod 'jlondon/phpmyadmin',     '1.1.0'
 mod 'maestrodev/maven',       '1.4.0'
 mod 'maestrodev/wget',        '1.7.0'
 mod 'mayflower/php',          '3.4.1'
