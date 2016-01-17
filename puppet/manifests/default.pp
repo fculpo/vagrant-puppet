@@ -1,3 +1,5 @@
 include ntp
-include nginx
 include timezone
+
+# local modules
+include rtorrent

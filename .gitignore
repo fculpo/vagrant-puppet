@@ -1,4 +1,6 @@
 .vagrant/
+puppet/modules
+puppet/vendor
 
 # Windows image file caches
 Thumbs.db

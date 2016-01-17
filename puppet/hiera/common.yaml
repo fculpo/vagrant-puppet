@@ -4,3 +4,6 @@ ntp::servers:
 
 timezone::timezone:
   - 'Europe/Paris'
+
+rtorrent::vhost: 'puptest.dev'
+rtorrent::install_nginx: false
